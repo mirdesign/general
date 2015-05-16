@@ -125,3 +125,6 @@ Diagnose()
 
 # To show just 1 read
 print GetDistance()
+
+# Clean up
+GPIO.cleanup()
